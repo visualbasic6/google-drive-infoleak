@@ -9,6 +9,7 @@ date: 01/20/15
 
 instructions: using google developers console, generate api credentials after enabling drive api
 on a new project edit this file with said credentials (i.e. clientid, clientsecret, redirecturi)
+your redirecturi must point to this file
 
 */
 
@@ -25,7 +26,7 @@ require_once "google-api-php-client/src/Google/Auth/AssertionCredentials.php";
 $cScope         =   'https://www.googleapis.com/auth/drive';
 $cClientID      =   '[clientid]';
 $cClientSecret  =   '[clientsecret]]';
-$cRedirectURI   =   '[redirecturi]';
+$cRedirectURI   =   '[redirecturi (url of this file)]';
 
 $cAuthCode      =   '';
 
