@@ -14,7 +14,7 @@ your redirecturi must point to this file
 */
 
 if($_GET['code'] == "null"){
-    goto reveal;
+    goto reveal; //php isn't my language of choice
 }
 
 begin:
