@@ -5,7 +5,6 @@ exploit title: full name disclosure information leak in google drive
 software link: https://drive.google.com/drive/#my-drive
 author: kevin mcsheehan
 website: http://mcsheehan.com
-email: kevin () mcsheehan com
 date: 01/20/15
 
 instructions: using google developers console, generate api credentials after enabling drive api
