@@ -2,7 +2,7 @@ in 2015 i discovered this exploit in both google mapsengine and google drive. ma
 
 ![lulz](https://i.imgur.com/nBBQdf3.png)
 
-how to install:
+how to install and use:
 
 1. use google developers console to generate api credentials *after enabling drive api* on a new project
 2. edit index.php with clientid, clientsecret and redirecturi values
