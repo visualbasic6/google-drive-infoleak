@@ -2,7 +2,10 @@ in 2015 i discovered this exploit in both google mapsengine and google drive. ma
 
 ![lulz](https://i.imgur.com/nBBQdf3.png)
 
-instructions:
-using google developers console, generate api credentials after enabling drive api on a new project edit this file with said credentials (i.e. clientid, clientsecret, redirecturi) your redirecturi must point to /index.php
+how to install:
+
+1. use google developers console generate api credentials after enabling drive api on a new project
+2. edit index.php with clientid, clientsecret and redirecturi values
+3. your redirecturi value must be the url that points to index.php.
 
 lulz full disclosure
