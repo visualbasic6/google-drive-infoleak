@@ -4,7 +4,7 @@ in 2015 i discovered this exploit in both google mapsengine and google drive. ma
 
 how to install:
 
-1. use google developers console generate api credentials after enabling drive api on a new project
+1. use google developers console to generate api credentials *after enabling drive api* on a new project
 2. edit index.php with clientid, clientsecret and redirecturi values
 3. your redirecturi value must be the url that points to index.php.
 
