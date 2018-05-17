@@ -15,4 +15,4 @@ in 2015 i discovered and reported this exploit found in both mapsengine and driv
 
 lulz full disclosure
 
-ps garbage at php and fully aware that this is a lame "exploit" but it catches things the "to" field in gmail compose method and account recovery procedures miss.
+ps garbage at php and fully aware that this is a lame "exploit" but it catches things the "to" field in gmail compose and account recovery procedures miss.
