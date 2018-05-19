@@ -25,7 +25,7 @@ require_once "google-api-php-client/src/Google/Auth/AssertionCredentials.php";
 
 $cScope         =   'https://www.googleapis.com/auth/drive';
 $cClientID      =   '[clientid]';
-$cClientSecret  =   '[clientsecret]]';
+$cClientSecret  =   '[clientsecret]';
 $cRedirectURI   =   '[redirecturi (url of this file)]';
 
 $cAuthCode      =   '';
