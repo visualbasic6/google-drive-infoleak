@@ -1,7 +1,7 @@
 **how to install and use**
 
 1. use google developers console to generate api credentials *after enabling drive api* on a new project
-2. edit index.php and insert your clientid, clientsecret and redirecturi starting at line 27
+2. edit index.php and insert your clientid, clientsecret and redirecturi starting at line 26
 3. your redirecturi value must be the url that points to index.php
 4. navigate to index.php after hosting it on a local or remote webserver
 
