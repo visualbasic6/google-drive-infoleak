@@ -1,3 +1,7 @@
+**foreword**
+
+this reveals *way* more full names than account recovery procedures, the "to" field in new emails, etc. and as such [seclists.org commentators](https://seclists.org/fulldisclosure/2015/Jan/95) were and still are [dead wrong](https://youtu.be/gwpFaU7FwtQ?t=117) ¯\_(ツ)_/¯
+
 **how to install and use**
 
 1. use google developers console to generate api credentials *after enabling drive api* on a new project
@@ -15,4 +19,4 @@ in 2015 i discovered and reported this exploit found in both mapsengine and driv
 
 lulz full disclosure
 
-ps garbage at php and fully aware that this is a lame "exploit" but it catches things the "to" field in gmail compose and account recovery procedures miss.
+ps garbage at php and fully aware that this is a lame "exploit"
