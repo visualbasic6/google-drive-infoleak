@@ -19,4 +19,4 @@ in 2015 i discovered and reported this exploit found in both mapsengine and driv
 
 lulz full disclosure
 
-ps garbage at php and fully aware that this is a lame "exploit" but there are general low impact privacy implications and is probably a blackhat spammer's best friend. name and email data > email data re: ctr/epcs
+ps garbage at php and fully aware that this is a lame "exploit" but there are general low impact privacy implications in addition to probably being a blackhat spammer's best friend as name and email data > email data re: ctr/epc
