@@ -1,4 +1,4 @@
-**foreword**
+**intro**
 
 this reveals *way* more full names than account recovery procedures, the "to" field in new emails, etc. and as such [seclists.org commentators](https://seclists.org/fulldisclosure/2015/Jan/95) were and still are [dead wrong](https://youtu.be/gwpFaU7FwtQ?t=117) ¯\\_(ツ)_/¯
 
