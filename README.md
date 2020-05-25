@@ -13,10 +13,8 @@ this reveals *way* more full names than account recovery procedures, the "to" fi
 
 **full name information leak in google drive**
 
-in 2015 i discovered and reported this exploit found in both mapsengine and drive. mapsengine was patched, but it was evidently a feature in drive. many email accounts across several providers whose names aren't visible on g+ or in account recovery procedures become retrievable. this issue was disclosed to google back in 2015.
+in 2015 i discovered and reported this leak found in both mapsengine and drive. mapsengine was patched, but it was evidently a feature in drive. many email accounts across several providers whose names aren't visible on g+ or in account recovery procedures become retrievable. this issue was disclosed to google back in 2015.
 
 ![lulz](https://i.imgur.com/RqXaPti.png)
 
 lulz full disclosure
-
-ps garbage at php and fully aware that this is a lame "exploit" but there are general low impact privacy implications in addition to probably being a blackhat spammer's best friend as name and email data > email data re: ctr/epc
