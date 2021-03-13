@@ -1,4 +1,4 @@
-edit: this has been patched. took ~5 years
+**edit: this has been patched. took ~5 years**
 
 **how to install and use**
 
